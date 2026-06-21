@@ -1,2 +1,2 @@
 print("Name: Arjun")
-print("Version 2")
+print("Version 2.6")
